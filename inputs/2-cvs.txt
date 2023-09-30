@@ -1,0 +1,279 @@
+CV 1:
+---
+
+## Education
+
+- Master in Computer Science, University of Colombo, School of Computing, Colombo, Sri Lanka, Mar. 2019 - Aug. 2021
+  - Coursework: Data Structures, Comp Architecture, Algorithms, Artificial Intelligence, Databases, Modeling and Simulations.
+
+- B.Sc. in Electrical and Information Engineering, University of Ruhuna, Faculty of Engineering, Galle, Sri Lanka, Aug. 2010 - Nov. 2014
+  - Coursework: Operating Systems, Databases, Algorithms, Programming Languages, Comp. Architecture
+
+## Experience
+
+### Technical Team Lead, Allion Technologies Inc., Colombo, Sri Lanka, Nov. 2021 - Present
+
+- Leading and developing 3 teams for customers in the education, transportation, and advertising sectors.
+- Responsibilities include directing the development team, integration service development, and frontend UI development.
+- Designing and implementing new REST API endpoints and improving server performance.
+- Developed a highly efficient image verification algorithm in Python.
+- Technologies used: Kotlin, Angular, PostgreSQL, Spring Boot, Spring, Node.js, Express.js, PHP, TypeScript, OpenAPI, AWS, Python, NumPy, OpenCV, Git, Gradle, Docker, Jira.
+
+### Sr. Software Engineer - Support, Enactor Pvt. Ltd., Colombo, Sri Lanka, Oct. 2018 - Nov. 2021
+
+- Collaborated with customers to identify and resolve technical issues within pre-agreed SLAs.
+- Reduced customer bug backlog by 70% during the first lockdown period in the UK.
+- Improved troubleshooting efficiency and team SLA compliance.
+- Contributed to the organizational knowledge base through documentation.
+- Led investigation processes for application performance issues.
+- Technologies used: Java, MariaDB, MySQL, Aurora, JAXB, SOAP, SOA, JAX-WS, Axis2, Maven, Subversion, JUnit, JMockit, Docker, Zendesk, Jira.
+
+### Senior Software Engineer & Team Lead, CodeGen Pvt. Ltd., Colombo, Sri Lanka, Feb 2015 – Oct 2018
+
+- Worked on large client projects, including Emirates Holidays, Arabian Adventures, and Virgin Holidays.
+- Enhanced legacy in-memory caching framework and developed a distributed availability evaluation framework.
+- Improved API latency and throughput significantly.
+- Ensured application resiliency during the post-go-live period.
+- Developed automation tools and conducted training sessions.
+- Led a team of 8, mentoring and coaching the team.
+- Technologies used: Java, Oracle, JMS, HazelCast, SOAP, REST, YourKit, Eclipse Memory Analyser, JUnit, Mockito, JMockit, SoapUI, JMeter, Jenkins, Git.
+
+## Extra Projects and Contributions
+
+### Full Stack Software Developer, ReportGen, Apr. 2018 - Present
+
+- Developed a back-office application using Angular and Java on Spring Boot.
+- Technologies used: Spring Boot, Spring MVC, Hibernate, Spring JPA, Angular, MariaDB.
+
+### Backend Software Developer, ORAC, Mar. 2020 - Dec. 2020
+
+- Designed and developed a backend Rest API service using Spring Boot.
+- Technologies used: Spring Boot, Rest, Hibernate, Spring JPA, GCP, MongoDB, Firebase Authentication, Docker, Thymeleaf, MariaDB.
+
+### Researcher / Full Stack Developer, MarketEye - a research project, Dec. 2020 - Apr. 2021
+
+- Contributed to a stock market decision assistive system using machine learning and data visualization.
+- Technologies used: Reinforcement Learning, Recurrent Neural Networks, Python, TensorFlow, Keras, Flask, Angular, TypeScript, Rest, Git, AWS SageMaker, GCP.
+
+### External
+
+ Security Consultant, TechCert Pvt. Ltd., Oct. 2020 - Present
+
+- Performed static code reviews for security vulnerabilities and conducted training sessions on secure coding.
+- Concepts: OWASP Top Vulnerabilities, OWASP Proactive Controls, Enterprise coding best practices, Static code analysis techniques.
+
+---
+
+CV 2:
+---
+
+## Education
+
+- Master in Computer Science, University of Colombo, School of Computing, Colombo, Sri Lanka, Mar. 2019 - Aug. 2021
+  - Coursework: Data Structures, Comp Architecture, Algorithms, Artificial Intelligence, Databases, Modeling and Simulations.
+
+- B.Sc. in Electrical and Information Engineering, University of Ruhuna, Faculty of Engineering, Galle, Sri Lanka, Aug. 2010 - Nov. 2014
+  - Coursework: Operating Systems, Databases, Algorithms, Programming Languages, Comp. Architecture
+
+## Experience
+
+### Technical Team Lead, Allion Technologies Inc., Colombo, Sri Lanka, Nov. 2021 - Present
+
+- Leading and developing 3 teams for customers in the education, transportation, and advertising sectors.
+- Responsibilities include directing the development team, integration service development, and frontend UI development.
+- Designing and implementing new REST API endpoints and improving server performance.
+- Developed a highly efficient image verification algorithm in Python.
+- Technologies used: Kotlin, Angular, PostgreSQL, Spring Boot, Spring, Node.js, Express.js, PHP, TypeScript, OpenAPI, AWS, Python, NumPy, OpenCV, Git, Gradle, Docker, Jira.
+
+### Sr. Software Engineer - Support, Enactor Pvt. Ltd., Colombo, Sri Lanka, Oct. 2018 - Nov. 2021
+
+- Collaborated with customers to identify and resolve technical issues within pre-agreed SLAs.
+- Reduced customer bug backlog by 70% during the first lockdown period in the UK.
+- Improved troubleshooting efficiency and team SLA compliance.
+- Contributed to the organizational knowledge base through documentation.
+- Led investigation processes for application performance issues.
+- Technologies used: Java, MariaDB, MySQL, Aurora, JAXB, SOAP, SOA, JAX-WS, Axis2, Maven, Subversion, JUnit, JMockit, Docker, Zendesk, Jira.
+
+### Senior Software Engineer & Team Lead, CodeGen Pvt. Ltd., Colombo, Sri Lanka, Feb 2015 – Oct 2018
+
+- Worked on large client projects, including Emirates Holidays, Arabian Adventures, and Virgin Holidays.
+- Enhanced legacy in-memory caching framework and developed a distributed availability evaluation framework.
+- Improved API latency and throughput significantly.
+- Ensured application resiliency during the post-go-live period.
+- Developed automation tools and conducted training sessions.
+- Led a team of 8, mentoring and coaching the team.
+- Technologies used: Java, Oracle, JMS, HazelCast, SOAP, REST, YourKit, Eclipse Memory Analyser, JUnit, Mockito, JMockit, SoapUI, JMeter, Jenkins, Git.
+
+## Extra Projects and Contributions
+
+### Full Stack Software Developer, ReportGen, Apr. 2018 - Present
+
+- Developed a back-office application using Angular and Java on Spring Boot.
+- Technologies used: Spring Boot, Spring MVC, Hibernate, Spring JPA, Angular, MariaDB.
+
+### Backend Software Developer, ORAC, Mar. 2020 - Dec. 2020
+
+- Designed and developed a backend Rest API service using Spring Boot.
+- Technologies used: Spring Boot, Rest, Hibernate, Spring JPA, GCP, MongoDB, Firebase Authentication, Docker, Thymeleaf, MariaDB.
+
+### Researcher / Full Stack Developer, MarketEye - a research project, Dec. 2020 - Apr. 202
+
+1
+
+- Contributed to a stock market decision assistive system using machine learning and data visualization.
+- Technologies used: Reinforcement Learning, Recurrent Neural Networks, Python, TensorFlow, Keras, Flask, Angular, TypeScript, Rest, Git, AWS SageMaker, GCP.
+
+---
+
+CV 3:
+---
+
+## Education
+
+- Master in Computer Science, University of Colombo, School of Computing, Colombo, Sri Lanka, Mar. 2019 - Aug. 2021
+  - Coursework: Data Structures, Comp Architecture, Algorithms, Artificial Intelligence, Databases, Modeling and Simulations.
+
+- B.Sc. in Electrical and Information Engineering, University of Ruhuna, Faculty of Engineering, Galle, Sri Lanka, Aug. 2010 - Nov. 2014
+  - Coursework: Operating Systems, Databases, Algorithms, Programming Languages, Comp. Architecture
+
+## Experience
+
+### Technical Team Lead, Allion Technologies Inc., Colombo, Sri Lanka, Nov. 2021 - Present
+
+- Leading and developing 3 teams for customers in the education, transportation, and advertising sectors.
+- Responsibilities include directing the development team, integration service development, and frontend UI development.
+- Designing and implementing new REST API endpoints and improving server performance.
+- Developed a highly efficient image verification algorithm in Python.
+- Technologies used: Kotlin, Angular, PostgreSQL, Spring Boot, Spring, Node.js, Express.js, PHP, TypeScript, OpenAPI, AWS, Python, NumPy, OpenCV, Git, Gradle, Docker, Jira.
+
+### Sr. Software Engineer - Support, Enactor Pvt. Ltd., Colombo, Sri Lanka, Oct. 2018 - Nov. 2021
+
+- Collaborated with customers to identify and resolve technical issues within pre-agreed SLAs.
+- Reduced customer bug backlog by 70% during the first lockdown period in the UK.
+- Improved troubleshooting efficiency and team SLA compliance.
+- Contributed to the organizational knowledge base through documentation.
+- Led investigation processes for application performance issues.
+- Technologies used: Java, MariaDB, MySQL, Aurora, JAXB, SOAP, SOA, JAX-WS, Axis2, Maven, Subversion, JUnit, JMockit, Docker, Zendesk, Jira.
+
+### Senior Software Engineer & Team Lead, CodeGen Pvt. Ltd., Colombo, Sri Lanka, Feb 2015 – Oct 2018
+
+- Worked on large client projects, including Emirates Holidays, Arabian Adventures, and Virgin Holidays.
+- Enhanced legacy in-memory caching framework and developed a distributed availability evaluation framework.
+- Improved API latency and throughput significantly.
+- Ensured application resiliency during the post-go-live period.
+- Developed automation tools and conducted training sessions.
+- Led a team of 8, mentoring and coaching the team.
+- Technologies used: Java, Oracle, JMS, HazelCast, SOAP, REST, YourKit, Eclipse Memory Analyser, JUnit, Mockito, JMockit, SoapUI, JMeter, Jenkins, Git.
+
+## Extra Projects and Contributions
+
+### Full Stack Software Developer, ReportGen, Apr. 2018 - Present
+
+- Developed a back-office application using Angular and Java on Spring Boot.
+- Technologies used: Spring Boot, Spring MVC, Hibernate, Spring JPA, Angular, MariaDB.
+
+### Backend Software Developer, ORAC, Mar. 2020 - Dec. 2020
+
+- Designed and developed a backend Rest API service using Spring Boot.
+- Technologies used: Spring Boot, Rest, Hibernate, Spring JPA, GCP, MongoDB, Firebase Authentication, Docker, Thymeleaf, MariaDB.
+
+### Researcher / Full Stack Developer, MarketEye - a research project, Dec. 2020 - Apr. 2021
+
+
+
+- Contributed to a stock market decision assistive system using machine learning and data visualization.
+- Technologies used: Reinforcement Learning, Recurrent Neural Networks, Python, TensorFlow, Keras, Flask, Angular, TypeScript, Rest, Git, AWS SageMaker, GCP.
+
+### External Security Consultant, TechCert Pvt. Ltd., Oct. 2020 - Present
+
+- Performed static code reviews for security vulnerabilities and conducted training sessions on secure coding.
+- Concepts: OWASP Top Vulnerabilities, OWASP Proactive Controls, Enterprise coding best practices, Static code analysis techniques.
+
+---
+
+## Education
+### Master in Computer Science
+**University of Colombo, School of Computing** (Mar. 2019 - Aug. 2021)
+
+### B.Sc. in Electrical and Information Engineering
+**University of Ruhuna, Faculty of Engineering** (Aug. 2010 - Nov. 2014)
+
+## Experience
+### Technical Team Lead, Allion Technologies Inc. (Nov. 2021 - Present)
+Key Achievements:
+- Developed backend services in Java using Spring Boot.
+- Introduced REST API endpoints supporting mobile apps and back-office interfaces.
+- Built frontend UIs with Angular.
+- Ensured efficient server performance through PostgreSQL database tuning.
+
+### Sr. Software Engineer - Support, Enactor Pvt. Ltd. (Oct. 2018 - Nov. 2021)
+Key Achievements:
+- Solved complex technical issues and reduced customer bug backlog by 70%.
+- Worked extensively with Java for backend implementation.
+
+### Senior Software Engineer & Team Lead, CodeGen Pvt. Ltd. (Feb 2015 – Oct 2018)
+Key Achievements:
+- Enhanced an in-memory caching framework.
+- Developed plugins for IntelliJ Idea to automate tasks.
+- Led a team of 8 and took part in the Agile project management process.
+
+## Extra Projects and Contributions
+### Full Stack Software Developer, ReportGen (Apr. 2018 - Present)
+### Backend Software Developer, ORAC (Mar. 2020 - Dec. 2020)
+### Researcher / Full Stack Developer, MarketEye (Dec. 2020 - Apr. 2021)
+### External Security Consultant, TechCert Pvt. Ltd. (Oct. 2020 - Present)
+
+---
+
+## Education
+- **Master in Computer Science, University of Colombo, School of Computing** (Mar. 2019 - Aug. 2021)
+- **B.Sc. in Electrical and Information Engineering, University of Ruhuna, Faculty of Engineering** (Aug. 2010 - Nov. 2014)
+
+## Experience
+- **Technical Team Lead, Allion Technologies Inc.** (Nov. 2021 - Present)
+    - Developed backend services in Java using Spring Boot.
+    - Introduced REST API endpoints supporting mobile apps and back-office interfaces.
+    - Built frontend UIs with Angular.
+    - Ensured efficient server performance through PostgreSQL database tuning.
+- **Sr. Software Engineer - Support, Enactor Pvt. Ltd.** (Oct. 2018 - Nov. 2021)
+    - Solved complex technical issues and reduced customer bug backlog by 70%.
+    - Worked extensively with Java for backend implementation.
+- **Senior Software Engineer & Team Lead, CodeGen Pvt. Ltd.** (Feb 2015 – Oct 2018)
+    - Enhanced an in-memory caching framework.
+    - Developed plugins for IntelliJ Idea to automate tasks.
+    - Led a team of 8 and took part in the Agile project management process.
+
+## Extra Projects and Contributions
+- **Full Stack Software Developer, ReportGen** (Apr. 2018 - Present)
+- **Backend Software Developer, ORAC** (Mar. 2020 - Dec. 2020)
+- **Researcher / Full Stack Developer, MarketEye** (Dec. 2020 - Apr. 2021)
+- **External Security Consultant, TechCert Pvt. Ltd.** (Oct. 2020 - Present)
+
+---
+
+## Education
+Master in Computer Science - University of Colombo, School of Computing (Mar. 2019 - Aug. 2021)
+B.Sc. in Electrical and Information Engineering - University of Ruhuna, Faculty of Engineering (Aug. 2010 - Nov. 2014)
+
+## Experience
+Technical Team Lead at Allion Technologies Inc. (Nov. 2021 - Present)
+- Backend service development with Java and Spring Boot
+- Integration of REST API endpoints
+- UI development with Angular
+- PostgreSQL database performance tuning
+
+Sr. Software Engineer - Support at Enactor Pvt. Ltd. (Oct. 2018 - Nov. 2021)
+- Resolved complex technical issues
+- Reduced customer bug backlog by 70%
+- Extensive backend development with Java
+
+Senior Software Engineer & Team Lead at CodeGen Pvt. Ltd. (Feb 2015 – Oct 2018)
+- Enhanced in-memory caching framework
+- Developed plugins for IntelliJ Idea
+- Led a team of 8 and participated in Agile project management
+
+## Extra Projects and Contributions
+Full Stack Software Developer at ReportGen (Apr. 2018 - Present)
+Backend Software Developer at ORAC (Mar. 2020 - Dec. 2020)
+Researcher / Full Stack Developer at MarketEye (Dec. 2020 - Apr. 2021)
+External Security Consultant at TechCert Pvt. Ltd. (Oct. 2020 - Present)

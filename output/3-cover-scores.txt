@@ -1,0 +1,10 @@
+Cover Letter 1: Score - 8/10
+Suresh Lasantha's cover letter clearly outlines his experience and how it matches the job specification. He provides relevant details and examples about past roles and projects that emphasise his skills and familiarity with the technologies we use. Suresh also mentions experience managing databases and working with similar Azure services, which are crucial for the role. However, he does not clearly address his experience in building scalable and self-healing infrastructure in the cloud or comfort with C# dotnet core and terraform. Demonstrated teamwork capability is also missing.
+
+<---------------------------------->
+Cover Letter 2: Score - 7.5/10
+In his second cover letter, Suresh Lasantha again highlights his professional experience and educational background. He makes a clear connection between his previous roles and the required skills for the current job, providing an example of his problem-solving and team leadership skills. However, the letter falls short of specific experiences providing coded solutions and familiarity with C# dotnet core and terraform or infrastructure as code. His experience with databases seems to be limited mainly to PostgresSQL, which was mentioned positively in the previous letter as well.
+
+<---------------------------------->
+Cover Letter 3: Score - 8/10
+In this letter, Suresh Lasantha emphasizes his academic background and professional experience related to the job requirements, particularly in cloud computing and database system proficiency. He mentions his involvement in the development of low latency APIs and building of micro-services architecture, which aligns well with the job requirements. However, key aspects related to hands-on experience with specific technologies such as C# dotnet core and terraform or infrastructure as code are not clearly addressed. His leadership and mentoring experiences are mentioned but not detailed. Overall, all three cover letters are quite strong but further discussion would be needed to fill in these gaps.

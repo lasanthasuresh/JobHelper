@@ -1,0 +1,56 @@
+Amused Group
+
+Amused Group specialize in end-to-end product creation that leverages intuitive design, disruptive technologies, and an agile framework. We disrupt, we innovate, we are at the forefront of the wagering sector. Pushing the boundaries of tech today to build the solutions for tomorrow, we are building an inclusive workplace that embraces diversity and difference.
+
+Technologies we use:
+• C# dotnet core and terraform.
+• Azure, Function Apps, Event Hubs, and Kubernetes
+• Proprietary and commercial solutions for security event detection and incident management
+
+
+Key accountabilities 
+• Develop architectural diagrams and documentations to identify requirements and solutions.
+• Adhere with the company coding standards and convention to produce high-performing and testable code.
+• Hands on design, develop and maintain low latency APIs and building micro services architecture.
+• Take ownership of your code in production, using metrics and customer feedback to guide technical priorities and improvements.
+• Facilitate development and growth of junior engineers through mentoring and hiring
+• Champion software quality, integrity, extensibility, maintainability, and reliability throughout the department by designing, implementing, and promoting engineering practices.
+• Work across all phases of SDLC and use software engineering principles to build scaled solutions.
+• Mentoring and governing of engineering team with technical expertise, systems design & building capability roadmaps
+
+Technical expertise  
+• 7+ years’ experience in dotnet/dotnet core.
+• Strong cloud experience Azure and services like
+• Function Apps, ECS
+• Event Hub, Event Grid
+• CosmosDB and Postgres SQL
+• Strong experience in using infrastructure as code using terraform or bicep.
+• Experience in design and develop highly available, scalable, and reliable Azure based systems
+• Event driven architecture, messaging, and event bus platforms (Azure Event Hub, Kafka or similar)
+• Distributed caching (Redis, Memcached or similar)
+• SQL and Nosql – SQL Server/CosmosDB/PostgreSQL
+• CI/CD - Continuous Delivery (GitHub Actions, Azure DevOps or similar)
+• Building scalable and self-healing infrastructure in cloud
+
+Knowledge and skills 
+• Strong analytical and creative problem-solving skills
+• Solid understanding of multi-threading and low-latency programming techniques
+• Demonstrate an extremely high level of accuracy and attention to detail.
+• Experience in producing high quality code utilizing practices like TDD, BDD
+• Experience working in a start-up or heavily regulated environments.
+• Develop tech and engineering practice guardrails and ensure they are adopted
+
+Desirable Skills
+• Exposure to high traffic / distributed software systems
+• Exposure to high throughput mission critical systems
+
+Who you are 
+• You are a leader– striving for technical excellence through your coding and system design
+• You are committed – You strive to produce, exceptional, risk free, fully tested solutions in all the platforms you build.
+• You can think on your feet - with experience building platforms which resolve fast paced, ever changing success measures.
+• You are team player– fostering effective collaboration in multi-disciplinary squads across region
+
+Qualifications 
+1. Bachelor’s degree – computer science
+2. Master's degree – computer science (Bonus)
+3. Azure certifications (Bonus)

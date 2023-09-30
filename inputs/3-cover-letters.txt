@@ -1,0 +1,46 @@
+Dear Hiring Manager at Amused Group,
+
+I am writing to express my interest in the position you advertised. With over 7 years of experience in the tech industry and a Master's degree in Computer Science, I believe I would make a valuable addition to your team.
+
+Your job posting highlights the importance of extensive cloud experience, especially concerning Azure. One of my notable experiences involves designing and developing the back-end of the ORAC project as a Rest API service running on a Kubernetes cluster hosted in GCP. This comprehensive experience makes me highly comfortable with similar Azure services.
+
+Moreover, I bring robust experience with databases like PostgresSQL and MariaDB. With Enactor Pvt. Ltd., I improved troubleshooting efficiency by developing tools and strategies to pinpoint problems quickly using an intuitive graphic UI. I also led the investigation process for application performance/scalability related issues, all while working with databases like MariaDB and MySQL.
+
+In terms of development efficiency and code quality, I have a history of delivering high-quality, testable, and maintainable code. My background in test-driven development and mentorship roles equip me with the skill set necessary to guide the team towards delivering high-quality software.
+
+Thank you for considering my application. I would love to bring my dedication and professionalism to Amused Group as your new senior software engineer. I am excited about the possibility of contributing to your team, and I am happy to discuss my application further at your earliest convenience.
+
+Best regards, 
+Suresh Lasantha
+------------------------------------------------------------------------
+
+Dear Amused Group,
+
+I am writing to introduce myself as a potential candidate for the job posting you recently advertised. My experience as a Technical Team Lead at Allion Technologies lnc. and a Sr. Software Engineer in Support at Enactor Pvt. Ltd., equips me with qualifications grow and contribute to your organization.
+
+The position calls for a hands-on experience with cloud services, distributed caching, and building scalable infrastructure in the cloud. During my Masters in Computer Science at the University of Colombo, I specialized in areas such as artificial intelligence, data structures, and databases, giving me a solid technical foundation to excel at your company.
+
+At Allion Technologies lnc., I not only led the development team, but I also significantly improved server performance by introducing and fine-tuning indexes in the PostgreSQL database, showcasing my capability to optimize data management systems. Additionally, I have also introduced several tools and workflows for identifying and resolving software issues efficiently at Enactor Pvt. Ltd., showing my understanding of building scalable and self-healing infrastructure.
+
+In terms of team leadership and mentoring, I have fulfilled these roles in my previous positions. At CodeGen Pvt. Ltd., I led a team of eight, assisting in project management and the overall software development life cycle.
+
+Thank you for considering my application. I am confident my skills and experiences make me a strong candidate for this opportunity. I am eager to clarify any points and look forward to hearing from you soon. 
+
+Best, 
+Suresh Lasantha
+--------------------------------------------------------------------
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am submitting my letter of interest for your recent job post. With a Masters in Computer Science from the University of Colombo, and experience as a senior software engineer, I am confident in my ability to deliver solutions that match your needs.
+
+Your position emphasizes on cloud computing and database system proficiency - skills that I honed both during my academic studies and professional career. Specifically, I have strong experience with designing and implementing database solutions in PostgreSQL during my job at Allion Technologies. My experience designing back-end solutions running on Kubernetes clusters in GCP for the ORAC project would also align well with your requirement of designing and developing Azure based systems.
+
+The development of low latency APIs and building of microservices architecture is also a core part of my professional competency. My experience in working with Java makes me confident that I would easily adapt and excel in developing with .Net Core.
+
+Lastly, my experience with CodeGen Pvt. Ltd., where I took on a leadership role, aligns with your requirement for leadership and mentoring of junior engineers.
+
+Thank you for taking the time to look over my application. I am confident that my diverse experiences make me a strong candidate for this role at Amused Group. I look forward to having the opportunity to discuss my application further.
+
+Yours sincerely,
+Suresh Lasantha

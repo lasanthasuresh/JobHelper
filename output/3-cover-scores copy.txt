@@ -1,0 +1,19 @@
+Cover Letter 1:
+
+Score: 9/10
+
+Justification: The cover letter is compelling and well-written, demonstrating the applicant's interest and qualifications for the position. The candidate aligns his experience with the key responsibilities highlighted in the job description, such as developing low latency APIs, distributed caching, managing a PostgreSQL database, experience with working with microservices architecture and mentoring of teams. He also shows his enthusiasm to join Amused Group, showcasing a keen understanding of the company's mission and culture. The only minor shortcoming is the lack of specific examples to further demonstrate his skills.
+
+----------------------------------
+Cover Letter 2:
+
+Score: 8/10
+
+Justification: While this cover letter also covers most of the required experience, the applicant slightly varies from the alignment of the job requirements compared to the first letter. There seems to be little emphasis on the experience with Azure-based systems, event-driven architecture, and mentoring junior engineers. However, the applicant does provide evidence of supervisory duties and an emphasis on producing high-quality, risk-free solutions. 
+
+----------------------------------
+Cover Letter 3:
+
+Score: 9.5/10
+
+Justification: This cover letter provides a very compelling case for hiring the applicant. He aligns his skills with specific job requirements more accurately than the other two applicants. He highlights his leadership role, his experience with microservices architecture, debugging of complex integration services, and his track record mentoring junior engineers specifically which are emphasized in the job description. Beyond that, he also showcases his understanding and enthusiasm for the mission of Amused Group. The .5 was removed due to slight shortcomings highlighting specific examples of past experiences.

@@ -1,0 +1,113 @@
+
+your name is Jan and you are a hiring manager at Thankyou payroll. 
+You are hiring for the following position. Amused Group
+
+Amused Group specialize in end-to-end product creation that leverages intuitive design, disruptive technologies, and an agile framework. We disrupt, we innovate, we are at the forefront of the wagering sector. Pushing the boundaries of tech today to build the solutions for tomorrow, we are building an inclusive workplace that embraces diversity and difference.
+
+Technologies we use:
+• C# dotnet core and terraform.
+• Azure, Function Apps, Event Hubs, and Kubernetes
+• Proprietary and commercial solutions for security event detection and incident management
+
+
+Key accountabilities 
+• Develop architectural diagrams and documentations to identify requirements and solutions.
+• Adhere with the company coding standards and convention to produce high-performing and testable code.
+• Hands on design, develop and maintain low latency APIs and building micro services architecture.
+• Take ownership of your code in production, using metrics and customer feedback to guide technical priorities and improvements.
+• Facilitate development and growth of junior engineers through mentoring and hiring
+• Champion software quality, integrity, extensibility, maintainability, and reliability throughout the department by designing, implementing, and promoting engineering practices.
+• Work across all phases of SDLC and use software engineering principles to build scaled solutions.
+• Mentoring and governing of engineering team with technical expertise, systems design & building capability roadmaps
+
+Technical expertise  
+• 7+ years’ experience in dotnet/dotnet core.
+• Strong cloud experience Azure and services like
+• Function Apps, ECS
+• Event Hub, Event Grid
+• CosmosDB and Postgres SQL
+• Strong experience in using infrastructure as code using terraform or bicep.
+• Experience in design and develop highly available, scalable, and reliable Azure based systems
+• Event driven architecture, messaging, and event bus platforms (Azure Event Hub, Kafka or similar)
+• Distributed caching (Redis, Memcached or similar)
+• SQL and Nosql – SQL Server/CosmosDB/PostgreSQL
+• CI/CD - Continuous Delivery (GitHub Actions, Azure DevOps or similar)
+• Building scalable and self-healing infrastructure in cloud
+
+Knowledge and skills 
+• Strong analytical and creative problem-solving skills
+• Solid understanding of multi-threading and low-latency programming techniques
+• Demonstrate an extremely high level of accuracy and attention to detail.
+• Experience in producing high quality code utilizing practices like TDD, BDD
+• Experience working in a start-up or heavily regulated environments.
+• Develop tech and engineering practice guardrails and ensure they are adopted
+
+Desirable Skills
+• Exposure to high traffic / distributed software systems
+• Exposure to high throughput mission critical systems
+
+Who you are 
+• You are a leader– striving for technical excellence through your coding and system design
+• You are committed – You strive to produce, exceptional, risk free, fully tested solutions in all the platforms you build.
+• You can think on your feet - with experience building platforms which resolve fast paced, ever changing success measures.
+• You are team player– fostering effective collaboration in multi-disciplinary squads across region
+
+Qualifications 
+1. Bachelor’s degree – computer science
+2. Master's degree – computer science (Bonus)
+3. Azure certifications (Bonus)
+
+------------------------------
+
+evaluate following cover letters for the position.
+give a score and justification. 
+
+ Cover Letter 1:
+----------------------------------
+Dear Hiring Team at Amused Group,
+
+I hope this message finds you well. My name is Suresh Lasantha and I am a seasoned software engineer with over 7 years of experience in back-end development and team leadership, mainly with Java/Kotlin on the Spring framework and ExpressJS on NodeJS. I came across your job posting, and I am eager to apply my learned skills and strong technical knowledge to the challenges at Amused Group.
+
+In my current role as a Technical Team Lead at Allion Technologies Inc., I oversee the design, development, coding, testing, and debugging of Node Express-based integration services. I also have extensive experience in designing and implementing REST API endpoints and ensuring their adhering to best practices - a skill that I believe is directly applicable to building microservice architecture. Having led a team of 8, overseeing their career progression, and conducting training sessions on various topics, I am confident in my ability to facilitate the development and growth of junior engineers at Amused Group.
+
+I also have hands-on experience with AWS, Lambda functions, and even conducting static code reviews for security vulnerabilities in high-critical systems - skills that I believe transfer well into Azure and other core services of your tech stack. I am a fast learner and eager to expand my skills to new technologies like C# dotnet core and terraform, which are integral to your tech stack.
+
+Thank you for considering my application. I look forward to the possibility of discussing my candidacy further.
+
+Best regards,
+Suresh Lasantha
+----------------------------------
+
+Cover Letter 2:
+----------------------------------
+Dear Amused Group Hiring Team,
+
+As an accomplished software engineer with a Master's degree in Computer Science and extensive experience in back-end development and team leadership, I am excited to apply for the open position at Amused Group. I have spent years honing my technical skills with Java/Kotlin on Spring and ExpressJS on NodeJS, and have achieved significant success in designing, developing, and implementing robust solutions for various industries.
+
+During my time at Allion Technologies Inc., I have led the design and development of three different teams responsible for the robust backend development in domains such as education, transportation, and advertising. My deep understanding and practical experience with AWS and its various services have especially prepared me for a smooth transition to Azure.
+
+Mentoring is a role I deeply enjoy and take seriously; in my current position, I have successfully guided and supported a team of 8, focusing not just on their current projects but also on their long-term professional growth. I am excited by the possibility of bringing this approach to your organization to develop and mentor junior engineers.
+
+Thank you for considering my application. I am looking forward to discussing how my experience aligns with the needs of Amused Group.
+
+Best regards,
+Suresh Lasantha
+----------------------------------
+
+Cover Letter 3:
+----------------------------------
+To the Hiring Team at Amused Group,
+
+I am reaching out to express my interest in the open position at your esteemed organization. My name is Suresh Lasantha, and I bring with me a wealth of experience in back-end software development and team leadership, having worked extensively with Java/Kotlin on Spring and ExpressJS on NodeJS. 
+
+I currently serve as a Technical Team Lead at Allion Technologies Inc., where I lead development projects across numerous industries. Additionally, I have a significant understanding of cloud services through my work with AWS and Lambda, skill sets that I believe could easily translate to work with Azure.
+
+More importantly, I am an effective mentor and leader, having successfully led a team of 8 developers. I take great pride in supporting junior engineers in their growth and development and introducing methodologies that improve software quality, integrity, extensibility, maintainability, and reliability. I eagerly look forward to the opportunity to support and inspire other members of the Amused Group team in the same way.
+
+I am excited about the opportunity to expand my technical skills into areas such as C# dotnet core and terraform, which are crucial to the operations at your organization. I hope to bring my eagerness to learn, adaptability, and leadership skills to your team.
+
+Thank you for considering my application. I look forward to the chance to discuss my suitability for this role in greater detail. 
+
+Best Regards,
+Suresh Lasantha
+----------------------------------

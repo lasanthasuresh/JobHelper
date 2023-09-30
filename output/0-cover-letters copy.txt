@@ -1,0 +1,52 @@
+Cover Letter 1:
+
+Dear Hiring Team at Amused Group,
+
+I am writing to express my interest in joining the Amused Group in the advertised .NET Developer role. My sterling track record in software development and leadership, coupled with my commitment to innovative problem-solving, aligns directly with your key accountabilities for this role. 
+
+As a Technical Team Lead at Allion Technologies Inc., I have overseen the design and development of our critical backend integration services, optimizing performance with Kotlin, Angular, and Spring Boot. My experience with developing low latency APIs, distributed caching, and managing a PostgreSQL database will complement your department's objective of creating robust, scalable solutions.
+
+Moreover, my tenure as a Senior Software Engineer has equipped me with vast experience in debugging and resolving complex technical issues which, in turn, improved troubleshooting efficiency and SLA compliance. Thanks to my exposure to cloud technologies and working with microservices architecture, I am confident in my ability to design and maintain efficient Azure-based systems, a skill that you emphasize in your job description.
+
+Additionally, throughout my career, I have always nurtured emerging talent on my teams, focusing not only on technical knowledge but also on best practice guidelines and standard conventions. I believe my experience in guiding, mentoring, and governing engineering teams would meet your expectations for the role.
+
+Thank you for considering my application. I am excited about the possibility of contributing to Amused Group's innovative, disruptive products, and fostering a truly inclusive and diverse workplace. 
+
+Kind regards,
+Suresh Lasantha
+----------------------------------
+
+Cover Letter 2:
+
+Dear Amused Group Recruitment Team,
+
+I am writing to apply for the .NET Developer position at Amused Group. As a seasoned professional with extensive experience in backend development and team leadership, I am well-positioned to excel in this position, driving software quality and innovation within your esteemed company.
+
+Currently, as Technical Team Lead at Allion Technologies Inc, I guide the development team in the design and testing of Node Express-based integration service and enhancement of REST API endpoints. This role reinforces my strong command over both hands-on coding and supervisory duties, making me an ideal fit for your team.
+
+My prior experience as a Senior Software Engineer at Enactor Pvt. Ltd. and CodeGen Pvt. Ltd. further equipped me with key skills in effectively debugging complex issues and implementing software quality improvements. More importantly, I have developed well-architectured, scalable solutions steeped in best engineering practices—an undertaking that aligns perfectly with your job description.
+
+Your emphasis on producing risk-free and thoroughly tested solutions aligns well with my philosophy of delivering nothing but the best to end-users. I assure you of my unwavering commitment to maintaining high quality code and engineering practices. 
+
+Thank you for your time and consideration, and I am eager to explore the opportunity to help guide your team to new heights of innovation.
+
+With kind regards,
+Suresh Lasantha
+----------------------------------
+
+Cover Letter 3:
+
+To the Hiring Manager at Amused Group,
+
+As a passionate software engineer and leader among my peers, I was thrilled to discover your open .NET Developer position. Your focus on disruptive technologies attracted me to the role, and I am enthusiastic about the opportunity to contribute to Amused Group’s evolution in the wagering sector.
+
+With a Master's in Computer Science, extensive experience leading development teams, and a comprehensive understanding of microservices architecture, I believe I bring the right mix of technical and managerial skills required for this role. My current position as a Technical Team Lead at Allion Technologies Inc. has given me a comprehensive insight into different aspects of the software development lifecycle, including the design, development, and debugging of complex integration services.
+
+In prior roles as a Senior Software Engineer, I have gained valuable experience and skills in cloud technologies, designed and developed highly scalable systems, and significantly improved the performance and throughput of critical systems. I also hold an impeccable track record of mentoring junior engineers, a responsibility I thoroughly enjoy and deem crucial to the growth of any successful engineering team.
+
+I'm excited by the prospect of joining Amused Group, building innovative solutions with the team, and contributing to an inclusive and diversified workplace. I am confident that I can bring value and innovation to your team.
+
+Thank you for considering my application.
+
+Yours faithfully,
+Suresh Lasantha
